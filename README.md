@@ -26,4 +26,11 @@ Mis compñeros y yo:
 
 Muy en criollo y seguro en algo este errando. Pero es la explicación que puedo dar ahora con lo que se. 
 
-[](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Eqwh-NvKEo6aopw3uJi_-LpnzH4Vc7ONhg&s)
+---
+
+## Fuentes usadas por mi hasta el momento
+
+**Creador de contendio [jonmircha](https://www.youtube.com/@jonmircha)**
+
+* [Curso de diseño de Bases de Datos](https://www.youtube.com/watch?v=HXE169-n5pM&t=10498s)
+* [Curso de Markdown](https://www.youtube.com/watch?v=FlsoBiteuPM&list=PLvq-jIkSeTUZ7FtDshwPGlZoLSWyR5ryt)
